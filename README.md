@@ -15,7 +15,7 @@ Welcome to the Motel Knowledge Base! This repo is a list of the tools and techno
 ## Contents
 * Front-end
   * Frameworks
-    * [**React**](./front-end/frameworks/react.md)
+    * [**React**](contents/front-end/frameworks/react.md)
     * Ember
     * Angular2
     * ~~Angular1~~
