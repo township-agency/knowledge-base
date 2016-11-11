@@ -1,5 +1,4 @@
 # *Item Name*
-[*Breadcrumb to Category*](../)
 
 ## Summary
 (*1-2 sentence description of tool or technology*)
