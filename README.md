@@ -16,40 +16,40 @@ Welcome to the Motel Knowledge Base! This repo is a list of the tools and techno
 * Front-end
   * Frameworks
     * [**React**](contents/front-end/frameworks/react.md)
-    * Ember
-    * Angular2
-    * ~~Angular1~~
+    * [Ember](contents/front-end/frameworks/ember.md)
+    * [Angular2](contents/front-end/frameworks/angular2.md)
+    * [~~Angular1~~](contents/front-end/frameworks/angular2.md)
   * Libraries
-    * MomentJS
+    * [MomentJS](contents/front-end/libraries/moment.md)
   * Testing
-    * Mocha
+    * [Mocha](contents/front-end/testing/mocha.md)
 * Server-side
   * Languages
-    * **NodeJS**
-    * Elixir
-    * Go
+    * [**NodeJS**](contents/server-side/languages/nodejs.md)
+    * [Elixir](contents/server-side/languages/elixir.md)
+    * [Go](contents/server-side/languages/go.md)
   * Frameworks
     * NodeJS
-      * **ExpressJS**
-      * Swagger
+      * [**ExpressJS**](contents/server-side/frameworks/nodejs/express.md)
+      * [Swagger](contents/server-side/frameworks/nodejs/swagger.md)
     * Elixir
-      * Phoenix
+      * [Phoenix](contents/server-side/frameworks/elixir/phoenix.md)
   * Testing
     * NodeJS
-      * Nightwatch
+      * [Nightwatch](contents/server-side/testing/nodejs/nightwatch.md)
 * Devops
   * Cloud
-    * AWS
-    * Google Cloud
-    * Heroku
+    * [AWS](contents/devops/cloud/aws.md)
+    * [Google Cloud](contents/devops/cloud/gcloud.md)
+    * [Heroku](contents/devops/cloud/heroku.md)
   * Containers
-    * Docker
+    * [Docker](contents/devops/containers/docker.md)
   * Continuous Integration Platforms
-    * CircleCI
-    * TravisCI
+    * [CircleCI](contents/devops/continuous-integration/circleci.md)
+    * [TravisCI](contents/devops/continuous-integration/travisci.md)
 * Principles
-  * Data-modeling
+  * [Data-modeling](contents/principles/data-modeling.md)
 * Style Guides
-  * Javascript
-  * CSS
+  * [Javascript](contents/style-guides/javascript.md)
+  * [CSS](contents/style-guides/css.md)
 
